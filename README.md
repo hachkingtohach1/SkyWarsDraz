@@ -20,6 +20,8 @@
     <br>
     ✔️ Spectator Mode
     <br>
+    ❌ SQL data providers
+    <br>
     
 </div>
 <br>
