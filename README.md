@@ -6,7 +6,7 @@
         <img src="https://poggit.pmmp.io/ci.shield/GamakCZ/SkyWars/SkyWars" alt="poggit-ci">
     </a>
     <br><br>
-    ✔️ Simple setup ✔️Multi arena support ✔️ Fast, without lags ✔️ Last PocketMine API support ✔️ Map reset  ✔️ Spectator Mode ❌ SQL data providers
+    ✔️ Simple setup ✔️Multi arena support ✔️ Fast, without lags ✔️ Last PocketMine API support ✔️ Map reset   ✔️ Spectator Mode ❌ SQL data providers
     <br>
     
 </div>
