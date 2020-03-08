@@ -1,0 +1,28 @@
+name: SkyWarsDraz
+api: 3.0.0
+version: 1.0.0
+main: vixikhd\skywars\SkyWars
+author: VixikHD, [HELPER] DragoVN
+description: SkyWars minigame plugin
+website: https://github.com/GamakCZ/SkyWars
+
+permissions:
+  sw.cmd:
+    description: Permission to all SkyWars commands
+    default: op
+    children:
+      sw.cmd.help:
+        description: Permission for /sw help
+        default: op
+      sw.cmd.create:
+        description: Permission for /sw create
+        default: op
+      sw.cmd.remove:
+        description: Permission for /sw remove
+        default: op
+      sw.cmd.set:
+        description: Permission for /sw set
+        default: op
+      sw.cmd.arenas:
+        description: Permission for /sw arenas
+        default: op
