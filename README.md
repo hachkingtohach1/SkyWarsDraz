@@ -24,6 +24,8 @@
     <br>
     ✔️ Chest refill
     <br>
+    ✔️ Spectator Mode
+    <br>
     
 </div>
 
