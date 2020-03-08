@@ -2,7 +2,8 @@ name: SkyWarsDraz
 api: 3.0.0
 version: 1.0.0
 main: vixikhd\skywars\SkyWars
-author: VixikHD, [HELPER] DragoVN
+author: VixikHD
+updater: DragoVN
 description: SkyWars minigame plugin
 website: https://github.com/GamakCZ/SkyWars
 
